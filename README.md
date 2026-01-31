@@ -14,11 +14,12 @@ T: = Toughness of Defending Model
 Sv: = Armor Save of Defending Model
 W: = Wounds of Defending Model
 (Optional)
-Invuln = Invulnerable Save of defending Unit, if None, leave 0
+Invuln: = Invulnerable Save of defending Unit, if None, leave 0
 FNP: = Feel No Pain of defending Unit, if None, leave 0
 
-After entering the aforementioned numbers, check any modifiers that the Attacking/Defending Unit may have. 
-Click Avg.? then Roll DIce.
+After entering the aforementioned numbers, check any modifiers that the Attacking/Defending Unit may have.
+Click Avg.? then Roll Dice.
 
-The roller operates in two different modes, Average will give you a statistical average of 10,000 rolls, and the probability of getting X+ units destroyed.
-When (Avg?) is unchecked, you will get Roll mode, which will simulate a single roll as if you were playing the game. 
+The roller operates in two different modes, Average will give you a statistical average of 100,000 rolls, and the probability of getting X+ units destroyed.
+When (Avg?) is unchecked, you will get Roll mode, which will simulate a single roll as if you were playing the game.
+
